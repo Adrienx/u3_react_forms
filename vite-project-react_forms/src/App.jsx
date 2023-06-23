@@ -34,7 +34,7 @@ function App() {
 
   // Render a form with labels, select, text and textarea fields, and a button
 
-  //  onChange event listeners call the handleChange function each time a
+  // onChange event listeners call the handleChange function each time a
   // user types in an input field // value attributes of the fields are set to
   // the corresponding formState property, which makes this a controlled
   // component
